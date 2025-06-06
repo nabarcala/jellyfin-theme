@@ -72,10 +72,18 @@
 /* "manual", "Quick Connect" and "forgot" buttons */
 #loginPage .raised.cancel.block.btnManual.emby-button,
 #loginPage .raised.cancel.block.btnForgotPassword.emby-button,
-#loginPage .raised.cancel.block.btnQuick.emby-button {
+#loginPage .raised.cancel.block.btnQuick.emby-button,
+#loginPage .emby-button.block, #loginPage .emby-button {
   margin-top: 5px;
+  border: 1px solid transparent;
   display: flex;
   border-radius: var(--rounded-cards);
+}
+#loginPage .raised.cancel.block.btnManual.emby-button:hover,
+#loginPage .raised.cancel.block.btnForgotPassword.emby-button:hover,
+#loginPage .raised.cancel.block.btnQuick.emby-button:hover,
+#loginPage .emby-button:hover {
+  border: .5px solid white;
 }
 
 .backgroundContainer,
@@ -87,6 +95,12 @@ html {
             LAYOUT DESKTOP
 
 ######################################################################################################################*/
+
+/* all buttons */
+.emby-button {
+  border: 1px solid transparent;
+  border-radius: var(--rounded-cards);
+}
 
 .layout-desktop .detailLogo {
   left: 5%;
