@@ -21,5 +21,5 @@ which is a fork of this: https://www.reddit.com/r/jellyfin/comments/12wpxry/my_c
 
 add on custom css
 ```
-@import 'https://cdn.jsdelivr.net/gh/alexyle/jellyfin-theme@main/glassmorphism/theme.css';
+@import 'https://cdn.jsdelivr.net/gh/nabarcala/jellyfin-theme@main/glassmorphism/theme.css';
 ```
