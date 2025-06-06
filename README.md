@@ -1,7 +1,5 @@
 # my jellyfin-theme
 
-just theme for jellyfin
-
 I have made a fork of this theme: https://github.com/deyusha2/jellyfin-theme
 which is a fork of this: https://www.reddit.com/r/jellyfin/comments/12wpxry/my_custom_css_for_moviestv_show_sections/
 
