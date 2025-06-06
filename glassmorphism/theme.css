@@ -12,19 +12,18 @@
 
 /* Hide "please login" text, margin is to prevent login form moving too far up */
 #loginPage h1 {
-  display: flex;
+  display: none;
 }
-
 
 #loginPage .padded-left.padded-right.padded-bottom-page {
   margin-top: 50px;
 }
 
-/* Hide "manual" and "forgot" buttons */
+/* Hide "manual" buttons */
 #loginPage .raised.cancel.block.btnManual.emby-button {
-  display: none;
+/*   display: none; */
 }
-
+/* Hide "forgot" buttons */
 #loginPage .raised.cancel.block.btnForgotPassword.emby-button {
   display: none;
 }
