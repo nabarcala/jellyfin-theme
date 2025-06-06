@@ -1,10 +1,11 @@
-# jellyfin-theme
+# my jellyfin-theme
 
 just theme for jellyfin
 
-I have made a fork of this theme: https://www.reddit.com/r/jellyfin/comments/12wpxry/my_custom_css_for_moviestv_show_sections/
+I have made a fork of this theme: https://github.com/deyusha2/jellyfin-theme
+which is a fork of this: https://www.reddit.com/r/jellyfin/comments/12wpxry/my_custom_css_for_moviestv_show_sections/
 
-## glassmorphism
+## Examples
 
 ![gif 1 (1)](https://github.com/alexyle/jellyfin-theme/blob/main/assets/298199066-a7b851a6-303f-8412-a7bc-6362a92e0d0a.gif?raw=true)
 
