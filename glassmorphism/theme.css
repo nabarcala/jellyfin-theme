@@ -12,7 +12,7 @@
 
 /* Hide "please login" text, margin is to prevent login form moving too far up */
 #loginPage h1 {
-  display: none;
+  display: flex;
 }
 
 
