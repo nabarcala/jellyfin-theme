@@ -417,7 +417,7 @@ html {
   background-color: #0000003d;
   backdrop-filter: blur(var(--blur));
   -webkit-backdrop-filter: blur(var(--blur));
-  border: 1px solid rgba(255, 255, 255, 0.18);
+/*   border: 1px solid rgba(255, 255, 255, 0.18); */
   border-radius: 5px;
 }
 
@@ -467,11 +467,12 @@ html {
   box-shadow: 4px 4px 10px 0px #000000a8;
   background: rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(var(--blur));
-  border-bottom-right-radius: 10px;
+/*   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
   border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-top-right-radius: 3px; */
+  border-radius: 10px;
+/*   border: 1px solid rgba(255, 255, 255, 0.18); */
   transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
@@ -527,7 +528,7 @@ html {
 
 .cardOverlayFab-primary{
   background-color: rgba(0, 0, 0, 0.4);
-  border: 2px solid rgba(255, 255, 255, 0.18);
+/*   border: 2px solid rgba(255, 255, 255, 0.18); */
   backdrop-filter: blur(var(--blur));
   -webkit-backdrop-filter: blur(var(--blur));
 
