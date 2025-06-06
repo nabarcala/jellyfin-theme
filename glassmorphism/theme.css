@@ -7,7 +7,7 @@
 /* Narrow the login form */
 #loginPage .readOnlyContent,
 #loginPage form {
-  max-width: 22em;
+  max-width: 42em;
 }
 
 /* Hide "please login" text, margin is to prevent login form moving too far up */
